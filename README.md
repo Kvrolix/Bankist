@@ -2,6 +2,8 @@
 
 The **Bankist App** is a JavaScript-based banking application designed to provide users with an interactive and dynamic experience for managing accounts, transferring funds, requesting loans, and tracking transaction histories. With features like sorting transactions, a logout timer, and date formatting, this project showcases advanced JavaScript concepts and browser APIs.
 
+![appShowcase](assets/BankistGif.gif)
+
 ---
 
 ## 🚀 Features
@@ -122,7 +124,15 @@ This project was a deep dive into modern JavaScript and browser APIs, covering:
 ---
 
 ## 📷 Screenshots
-*Include screenshots or GIFs demonstrating key features of the app.*
+![app](assets/image1.png)
+
+![app](assets/image2.png)
+
+![app](assets/image3.png)
+
+![app](assets/image4.png)
+
+![app](assets/image5.png)
 
 ---
 
