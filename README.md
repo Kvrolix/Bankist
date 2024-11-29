@@ -124,15 +124,15 @@ This project was a deep dive into modern JavaScript and browser APIs, covering:
 ---
 
 ## 📷 Screenshots
-![app](assets/image1.png)
+![app](assets/image1.PNG)
 
-![app](assets/image2.png)
+![app](assets/image2.PNG)
 
-![app](assets/image3.png)
+![app](assets/image3.PNG)
 
-![app](assets/image4.png)
+![app](assets/image4.PNG)
 
-![app](assets/image5.png)
+![app](assets/image5.PNG)
 
 ---
 
